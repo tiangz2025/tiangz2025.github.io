@@ -51,7 +51,7 @@ redirect_from:
 - Juntao Jiang, Xiyu Chen, **Guanzhong Tian**, Yong Liu [ViG-UNet: vision graph neural networks for medical image segmentation](https://ieeexplore.ieee.org/abstract/document/10230496/) 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
 
 # 📖 Educations
-- **2010. Batchelor Harbin Institute of Technology, Harbin, China**
+- **2010. Bachelor Harbin Institute of Technology, Harbin, China**
 - **2021. PhD. Zhejiang University, Hangzhou, China**
 - **Joint learning University of California, Merced**
 
@@ -59,6 +59,7 @@ redirect_from:
 - 计算机视觉（研究生专业课）
 - 机器视觉及应用（研究生专业课）
 - 高阶工程实践 （研究生公共课）
+
 
 # 💻 工作研究项目
 - 国家自然科学基金委青年科学基金项目，面向移动机器人的深度模型稀疏化关键理论与可解释性研究，62303405，主持.
