@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guanzhong Tian"
-description              : "Researcher in Zhejiang university,Focusing on Computer Vision, Model Compression and Embedded AI."
+description              : "Researcher in Zhejiang university, Focusing on Computer Vision, Model Compression and Embedded AI."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanzhong Tian"
   avatar           : "images/tian.jpg"
-  bio              : "Zhejiang University"
+  bio              : "Zhejiang University gztian@zju.edu.cn"
   location         : "Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0q-7PI4AAAAJ"
-  email            : "gztian@zju.edu.cn"
+  email            : "https://gztian@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
