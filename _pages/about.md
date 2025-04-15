@@ -28,7 +28,7 @@ redirect_from:
 
 
 # 📝 Publications 
-<h2 id="2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2024</h2>
+<h2 id="2025" style="color: #2c4a88; padding-top: 60px; margin-top: -60px;">2025</h2>
 
 - Changchuan Yang, Yuhang Dong, **Guanzhong Tian**, Haizhou Ge, Hongrui Zhu. [Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms](https://arxiv.org/pdf/2504.04991), arXiv preprint arXiv:2504.04991.
 - Yuhang Dong, Haizhou Ge, Yupei Zeng, Jiangning Zhang, Beiwen Tian, **Guanzhong Tian**, Hongrui Zhu, Yufei Jia, Ruixiang Wang, Ran Yi, Guyue Zhou, Longhua Ma. [Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning](https://arxiv.org/pdf/2502.09649), arXiv preprint arXiv:2502.09649.
